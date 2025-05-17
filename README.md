@@ -1,19 +1,18 @@
 <h1 align="center">Hi World👋, I'm <a href="https://100rabhcsmc.github.io/Me.io/" target="blank">
 Kenny Encinas</a></h1>
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdvd2VwY3c3aGFndWM1MHp4aDR4ZnZxMXAyMThoZ2dnc3hxbGdqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" />
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-🎓 I'm currently studying Web Full Stack Development through Fundación Pescar and Educación IT, and also pursuing a technical degree in Informatics at UTN-INSPT.
-### 💻 I work with:
-- Frontend: HTML, CSS, JavaScript
-- Backend: Java, Python, SQLite
-- Tools: Git, GitHub, Figma
-### 🚀 I enjoy building useful, creative, and user-friendly web applications. Some of my projects include:
-- 👯 A gym management platform called GoGym
-### 🤝 I'm looking to collaborate on open-source projects and grow through teamwork.
-### 📫 Reach out to me at: <a href="kenny.e.carrizo@gmail.com">kenny.e.carrizo@gmail.com</a>
+I'm currently studying Web Full Stack Development and also pursuing a technical degree in Informatics. I enjoy constantly learning, adapting to new challenges, and working as a team.
+* **I'm interested in web development, UX/UI design, software testing, and cybersecurity.**
+- 🌱 I’m currently learning ...
+  - Java
+  - React js
+- 👯 I’m looking forward to collaborate on open source projects.
+- Outside tech, 📖 I love to read novels, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="kenny.e.carrizo@gmail.com">kenny.e.carrizo@gmail.com</a>
 
 ## My Skills Include
 
@@ -59,6 +58,12 @@ Kenny Encinas</a></h1>
 
 
 
+
+
+<h2>Github stats:</h2> 
+
+[![](https://github-readme-stats.vercel.app/api?username=KennyREC&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/KennyREC)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=KennyREC&theme=material-palenight)](https://github.com/KennyREC)
 
 
 
