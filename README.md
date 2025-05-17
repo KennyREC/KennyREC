@@ -3,7 +3,7 @@ Kenny Encinas</a></h1>
 
 <img align="right" width=300px alt="Unicorn" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExamdvd2VwY3c3aGFndWM1MHp4aDR4ZnZxMXAyMThoZ2dnc3hxbGdqYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ES4Vcv8zWfIt2/giphy.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
 I'm currently studying Web Full Stack Development and also pursuing a technical degree in Informatics. I enjoy constantly learning, adapting to new challenges, and working as a team.
 * **I'm interested in web development, UX/UI design, software testing, and cybersecurity.**
